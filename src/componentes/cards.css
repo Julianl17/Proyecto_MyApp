@@ -1,0 +1,9 @@
+.card:hover{
+    border: 1px solid rgb(149, 255, 0) !important;
+    box-shadow: 5px 10px 20px 1px rgba(255, 255, 255, 0.2);
+    transition: all 0.7s linear;
+}
+.card{
+    margin: 35% 0;
+    width: 300px;
+}
